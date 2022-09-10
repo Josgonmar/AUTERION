@@ -6,6 +6,7 @@ Recognize and translate text from any image. You can both specify the original l
 * [OpenCV](https://docs.opencv.org/4.6.0/) - 4.6.0
 * [Numpy](https://numpy.org/doc/stable/) - 1.22.4
 * [Googletrans](https://py-googletrans.readthedocs.io/en/latest/) - 3.0.0
+* [Streamlit](https://docs.streamlit.io/library/get-started) - 1.10.0 (Only required to run the streamlit version)
 
 ## How to use:
 1. Copy all the images inside the */visuals* folder. They will be translated one by one automatically as a console message.
